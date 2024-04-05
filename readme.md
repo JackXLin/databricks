@@ -40,4 +40,5 @@ To run this project, import the notebook into Databricks and execute the cells s
 ## Future Work
 Further analysis could include predictive modeling to forecast sales and customer segmentation to tailor marketing strategies.
 
-
+## Kanban Board
+https://app.clickup.com/9015533018/v/b/li/901503991300
